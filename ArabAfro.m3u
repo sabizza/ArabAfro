@@ -1,0 +1,69 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="Arabic-Generals-TV" tvg-logo="" group-title="Arabic-Generals-TV",•●●●★===== MOROCCO TV =====★●●●•
+http://api.oneiptv.tv/load.php?id=0
+#EXTINF:-1,MOR:AlAoula Inter TV
+http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
+#EXTINF:-1,MOR:AlAoula Laayoune TV
+http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
+#EXTINF:-1,MOR:2M Maroc TV
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
+#EXTINF:-1,MOR:Arryadia TV
+http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
+#EXTINF:-1,MOR:Arrabiaa TV
+http://cdn-hls.globecast.tv/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
+#EXTINF:-1,MOR:Al Maghribia TV
+http://cdn-hls.globecast.tv/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
+#EXTINF:-1,MOR:Tamazight TV
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
+#EXTINF:-1,MOR:Assadissa TV
+http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8
+#EXTINF:-1,MOR:Medi1 Maghreb TV
+https://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/playlist.m3u8
+#EXTINF:-1,MOR:Medi1 Afrique TV
+http://streaming.medi1tv.com/live/Medi1tvAfrique.sdp/playlist.m3u8
+#EXTINF:-1,MOR:Medi1 Afrique TV
+https://streaming.medi1tv.com/live/Medi1tvAfrique.sdp/chunklist_w1763329609.m3u8
+#EXTINF:-1,MOR:Chada hdTV
+https://chadatv.vedge.infomaniak.com/livecast/chadatv/chunklist.m3u8
+#EXTINF:-1,MOR:Télé Maroc hdTV
+http://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
+#EXTINF:-1,PLZ:RASD TV
+https://593fa17dec176.streamlock.net/rasdtv/rasdtv/chunklist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Africa-General-TV" tvg-logo="" group-title="Africa-General-TV",•●●●★===== Africa-General-TV =====★●●●•
+http://api.oneiptv.tv/load.php?id=0
+#EXTINF:-1,AFR:ABN TV
+https://streaming.viewsat.eu/viewsatstream04/viewsatstream04.smil/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1,AFR:Africa Média TV
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/Afrm.m3u8
+#EXTINF:-1,AFR:Africa News TV
+https://1904441568.rsc.cdn77.org/1904441568/tracks-v1a1/mono.m3u8
+#EXTINF:-1,AFR:Africa Natural TV
+http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8
+#EXTINF:-1,AFR:Afrobeats TV
+https://stream.ecable.tv/afrobeats/index.m3u8
+#EXTINF:-1,AFR:AMC Série TV
+https://1043645968.rsc.cdn77.org/1043645968/tracks-v1a1/mono.m3u8
+#EXTINF:-1,AFR:AMC Movie TV
+https://1117758083.rsc.cdn77.org/1117758083/tracks-v1a1/mono.m3u8
+#EXTINF:-1,AFR:Bikutsi TV
+http://connectiktv.ddns.net:5000/bikutsitv/bikutsi_360p+SD/chunklist.m3u8
+#EXTINF:-1,AFR:One Africa Eng TV
+https://za-tv2a-wowza-origin02.akamaized.net/oneafrica/smil:oneafrica/playlist.m3u8
+#EXTINF:-1,AFR:One Africa Fr TV
+https://usb1.ninacdn.com/ssh101/onetv2/onetv2/playlist.m3u8
+#EXTINF:-1,AFR:Emergence TV
+http://connectiktv.ddns.net:5000/emergencetv/emergencetv/chunklist.m3u8
+#EXTINF:-1,AFR:Lagos TV
+http://185.105.4.193:1935/ltv/myStream/playlist.m3u8
+#EXTINF:-1,AFR:Mango TV
+http://connectiktv.ddns.net:5000/mangotv/mangotv/chunklist.m3u8
+#EXTINF:-1,AFR:Mouride TV
+http://162.212.178.131:1935/Livemouridetv/mouridetv/chunklist.m3u8
+#EXTINF:-1,AFR:RTV HD
+http://197.243.19.131:1935/rtv/rtv/chunklist_w2093872577.m3u8
+#EXTINF:-1,AFR:TopMovie TV
+http://connectiktv.ddns.net:5000/toptv/toptv/chunklist.m3u8
+#EXTINF:-1,AFR:Vision4 Cam TV
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
+#EXTINF:-1,AFR:TVM int TV
+http://196.28.226.121:1935/live/smil:Channel2.smil/chunklist_b714000_slpor.m3u8
